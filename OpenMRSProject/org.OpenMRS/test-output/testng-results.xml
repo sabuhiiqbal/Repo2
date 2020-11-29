@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8221" started-at="2020-11-16T11:01:34 EST" finished-at="2020-11-16T11:01:43 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8221" started-at="2020-11-16T11:01:34 EST" finished-at="2020-11-16T11:01:43 EST">
+      <class name="TestPage.FindPatientRecordTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:TestPage.FindPatientRecordTest@167fdd33]" name="initialization" is-config="true" duration-ms="7109" started-at="2020-11-16T11:01:27 EST" finished-at="2020-11-16T11:01:34 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestPage.FindPatientRecordTest@167fdd33]" name="setUp" is-config="true" duration-ms="8015" started-at="2020-11-16T11:01:34 EST" finished-at="2020-11-16T11:01:42 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLogoIconTest()[pri:2, instance:TestPage.FindPatientRecordTest@167fdd33]" name="validateLogoIconTest" duration-ms="75" started-at="2020-11-16T11:01:42 EST" finished-at="2020-11-16T11:01:43 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogoIconTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestPage.FindPatientRecordTest@167fdd33]" name="tearDown" is-config="true" duration-ms="66" started-at="2020-11-16T11:01:43 EST" finished-at="2020-11-16T11:01:43 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestPage.FindPatientRecordTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
